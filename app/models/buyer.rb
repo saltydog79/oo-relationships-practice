@@ -33,9 +33,9 @@ class Buyer
         #return the item instance
     end
 
-    def has_item_price(number)
+    def has_item_price(num)
         self.cart.select do |item|
-            item.price > number
+            item.price > num
         end
     end
 
