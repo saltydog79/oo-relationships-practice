@@ -11,6 +11,9 @@ class Item
         @price = price
         @@all << self
     end
+    
+    # def 
+    # end
 
     def self.all
         @@all

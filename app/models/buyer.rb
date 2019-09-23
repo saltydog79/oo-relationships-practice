@@ -39,4 +39,7 @@ class Buyer
         end
     end
 
+    # def 
+    # end
+
 end

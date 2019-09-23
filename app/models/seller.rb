@@ -20,4 +20,7 @@ class Seller
         end
     end
 
+    # def 
+    # end
+
 end

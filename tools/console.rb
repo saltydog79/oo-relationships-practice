@@ -50,6 +50,9 @@ coffee=Item.new("Coffee",emily,bob,4.0)
 water=Item.new("Water",charlie,larry,9.0)
 hot_dog1=Item.new("Hot Dog",charlie,bob,1.0)
 
+# def 
+# end
+
 
 
 binding.pry
